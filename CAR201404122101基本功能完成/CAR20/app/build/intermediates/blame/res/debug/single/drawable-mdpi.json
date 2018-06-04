@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ITech\\latest\\CAR20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\ITech\\latest\\CAR20\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ITech\\latest\\CAR20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\test.png",
+        "source": "D:\\ITech\\latest\\CAR20\\app\\src\\main\\res\\drawable-mdpi\\test.png"
+    }
+]

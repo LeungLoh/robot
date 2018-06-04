@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="blue">#1FBBE2</color>
+    <color name="btn1">#0fd468</color>
+    <color name="btn1_foc">#0FA653</color>
+
+    <color name="btn2">#f163b4</color>
+    <color name="btn2_foc">#DD51A1</color>
+    <color name="btn3">#f1601c</color>
+    <color name="btn3_foc">#D35317</color>
+    <color name="man_find">#e90808</color>
+    <color name="qi_find">#f0f408</color>
+</resources>

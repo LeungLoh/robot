@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_6c4155c1ad75ed5f5f6cf583c63990ae679a1ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_f4a5c23facc89c10038adfb36d070053a5775e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_4c92796e715c01126504c33f29b5c6205c66aec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_032113a8e6a75d3034a20eb683d669eecdf1650a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_347f8bef49c7efb0023f3069c3a90536ccecca3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_50491aef9c05b8833ed84e98e09587fd3863cbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_46d634e13c8f13dcafd94ba6ea9088a9fb263dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_f656bc935df7d0fef2cc9d64ecdc567a4bce29f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_374319e913986c38df753e01854d6b99467eb063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_cb7472e608c60c95b0823a3cff3b17941040a972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_63c129c429097198c89541480349314a2e61f80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_c7b4f63cf424c607483ed87399d465ea9fcf4f61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_21b35a8733a6436cacf9501beb45d2e268a6b258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a4d4befef5bb683749f1d5a418def91c9d443bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="570179664043496af74711ae06c7981345f756cf">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\instant-run_15a123c5c614e7915293ed63c77d501f9b398b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_302bb96ec1c0a368eeeca5088fde3ca516139d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_f86631588f0f5e17a873717b4d2143a717abcd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_26883f5ab90cac73d645bf6d7ea50f19b08acba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fdb0ab2964cadee58bfbed2e11a7778746ba72e">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\instant-run_21505533a06b3662f31d71f6874139df42b395b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_85bccd6773bb59f4c89a8d4c228a8486e8258cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_bf29a628b24bdd278619f6e78b2ebcb17f6048d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_98058436764e2f1c343e8cc59355cd13a1993bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_56b771cc8721204ce2eb220a8af3826b3673a432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_0e58ae05f29fbc4b90e89c911842356708f1093a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8244475a26393d20a827d82c9e64689dead7134d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_3881bac967aab5b211ab4b763945e0958de8e648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_5777bb931503fb31c3a67e632edcc03540ea5f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b259d444d0035575ae0420d6ffdae9ac2a7d88cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_0a0de8b44d4ebfa2355b847b42254412af3ff0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_8f9dc5fbbe4e869b715f275e19847d020a0fd1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8716c5eca936b67dfa3477fced3f604cee390e">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a3a238a629e3fed48358ceed365eaee78ff9f71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_abd4e25b67f984e61f831fbecff87788d9dd09a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb3ea20f1d2d29911f9b9bcc908e1ada2822e7fd">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9e95bfd8bd0b51e4b74e37e380961b8939e86bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f763b6cb1ba2edfe0ab0a6aafa07b29bd9475ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_70994553ee4266c7a7a5d1f01e6dad27d39a0a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ede62d827d06e3b256554def6437cc660a1881fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_73d8a7a0136a5bfd21dccd6e61ad135b64d8c700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Users\elory\StudioProjects\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_d006b72b256e71ba597a78740064cf617eb0982f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ITech\latest\CAR20\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\ITech\latest\CAR20\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_bd82a195c0b62cf1c193321791fcaffb5da8ecea.jar" />
+    </item>
+
+</items>

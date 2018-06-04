@@ -1,0 +1,282 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="zfp.activity.Ctr" >
+
+     <zfp.config.PaintVedio android:id="@+id/paintVedio"
+ 		android:layout_width="fill_parent"
+ 		android:layout_height="fill_parent"/>
+<!--这个是连接wifi按钮布局-->
+    <RadioButton
+        android:id="@+id/radioConn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="连接"
+        android:layout_alignParentTop="true" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center">
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="速度:"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="探测中..."/>
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="方向:"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="探测中..."/>
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_marginTop="3dp"
+        android:id="@+id/layrenm">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sm"
+            android:layout_marginRight="2dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="探测到生命迹象"
+            android:textColor="@color/man_find"
+            android:paddingRight="5dp"/>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:id="@+id/layqiti">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/duqi"
+                android:adjustViewBounds="false"
+                android:layout_marginRight="2dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="探测到有毒气体"
+                android:textColor="@color/qi_find"
+                android:paddingRight="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+<!--这个是方向按钮布局-->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp">
+
+    <Button
+        android:id="@+id/btnLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/lef"
+        android:layout_marginRight="10dp"
+        android:minHeight="0dp"
+        android:minWidth="0dp"/>
+
+        <Button
+        android:id="@+id/btnRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnBack"
+        android:layout_alignBottom="@+id/btnBack"
+        android:layout_toRightOf="@+id/btnBack"
+        android:background="@drawable/rig"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_marginLeft="10dp"/>
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/btnLeft"
+            android:layout_alignBottom="@+id/btnLeft"
+            android:layout_toRightOf="@+id/btnLeft"
+            android:layout_alignParentBottom="true"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:background="@drawable/back"/>
+        <Button
+            android:id="@+id/btnForward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/btnLeft"
+            android:layout_toRightOf="@+id/btnLeft"
+            android:background="@drawable/forw"
+            android:minHeight="0dp"
+            android:minWidth="0dp"/>
+        <!--<ImageButton-->
+            <!--android:id="@+id/btnForward"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/images_top"-->
+            <!--android:layout_above="@+id/btnBack"-->
+            <!--android:layout_alignLeft="@+id/btnBack"-->
+            <!--android:layout_alignStart="@+id/btnBack"-->
+            <!--android:rotation="1"/>-->
+
+        <!--<ImageButton-->
+            <!--android:id="@+id/btnBack"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/images_bottom"-->
+            <!--android:layout_marginLeft="24dp"-->
+            <!--android:layout_marginStart="24dp"-->
+            <!--android:layout_alignParentBottom="true"-->
+
+            <!--android:layout_marginBottom="-3dp"-->
+            <!--android:rotation="-1"/>-->
+
+        <!--<ImageButton-->
+            <!--android:id="@+id/btnLeft"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/images_left"-->
+            <!--android:layout_alignTop="@+id/btnForward"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:layout_alignParentStart="true"-->
+            <!--android:layout_marginTop="25dp" />-->
+
+        <!--<ImageButton-->
+            <!--android:id="@+id/btnRight"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/images_right"-->
+            <!--android:layout_alignTop="@+id/btnLeft"-->
+            <!--android:layout_toRightOf="@+id/btnLeft"-->
+            <!--android:layout_toEndOf="@+id/btnLeft"-->
+            <!--android:layout_marginLeft="-3dp"-->
+            <!--android:layout_marginTop="-1dp"/>-->
+
+    </RelativeLayout>
+<!--这个是二级菜单布局-->
+    <include layout="@layout/content_main" />
+<!--这个是完成学习按钮-->
+    <Button
+        android:id="@+id/btnLearn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="完成学习"
+        android:visibility="invisible"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp"/>
+<!--这个是模式文本-->
+    <TextView
+        android:id="@+id/modeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="手动模式"
+        android:layout_alignBaseline="@+id/radioConn"
+        android:layout_alignBottom="@+id/radioConn"
+        android:layout_toRightOf="@+id/radioConn"
+        android:layout_toEndOf="@+id/radioConn"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:textColor="@color/blue"/>
+<!--这个是自动模式下的按钮控制-->
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:visibility="invisible">
+
+        <RadioButton
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开始"
+            android:textColor="@color/white"
+            />
+
+        <RadioButton
+            android:id="@+id/btnStop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="暂停"
+            android:textColor="@color/white"
+            android:checked="true"/>
+    </RadioGroup>
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_alignRight="@+id/btnLearn"-->
+        <!--android:layout_alignEnd="@+id/btnLearn"-->
+        <!--android:text="send a"-->
+        <!--android:id="@+id/testbutton" />-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnLearn"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="38dp">
+        <Button
+            android:id="@+id/btnleftroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/lroll"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_below="@+id/testbutton"
+            android:layout_alignRight="@+id/relativeLayout"
+            android:layout_alignEnd="@+id/relativeLayout"
+            android:layout_marginRight="28dp"
+            android:layout_marginEnd="28dp" />
+        <Button
+            android:id="@+id/btnrightroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rroll"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_marginRight="28dp"
+            android:layout_marginEnd="28dp" />
+    </LinearLayout>
+</RelativeLayout>
+    <!--android:paddingLeft="@dimen/activity_horizontal_margin"-->
+    <!--android:paddingRight="@dimen/activity_horizontal_margin"-->
+    <!--android:paddingTop="@dimen/activity_vertical_margin"-->
+    <!--android:text="连接"-->
